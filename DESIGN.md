@@ -4,6 +4,13 @@ The page introduces Yaqyn Development as an independent workspace for career pro
 
 Use one static SVG masthead, concise copy, and a three-column project table. Keep source repositories private and use the existing public HyperQuote and Modern showcases as evidence. Describe Stockroom as a private evaluation prototype; do not imply live inventory use or implemented integration.
 
-Palette follows the maintained personal profile banner: charcoal `#161619`, off-white `#f2f1ed`, red `#ed424a`, secondary text `#b6b6be`, and dividers `#36363c`. The lowercase wordmark connects the identity to the portfolio. The diagram represents a workflow, not a product architecture. System fonts, explicit background, accessible title/description, no scripts, external resources, or animation. The cover is under 3 KB for fast loading.
+Black is the organization's primary brand color, explicitly chosen by the owner.
+The masthead uses pure black `#000000`, white `#ffffff`, supporting text
+`#dddddd`, and quiet dividers `#333333` / `#262626`. The lowercase wordmark and
+spaced DEVELOPMENT lettering establish hierarchy through type and whitespace.
+No red accents, illustrations, gradients, or animated decoration. The visual
+identity is distinct from the personal profile's charcoal/red palette.
+System fonts, explicit background, accessible title/description, no scripts or
+external resources. The SVG is under 2 KB for fast loading.
 
 The table and text carry the meaning independently of the illustration. No client metrics, team-size claims, service guarantees, or unsupported production claims.

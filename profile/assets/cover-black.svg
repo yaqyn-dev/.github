@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Yaqyn Development</title>
+<desc id="desc">A black and white typographic masthead. The lowercase yaqyn wordmark sits above widely spaced DEVELOPMENT lettering, beside a concise description of the workspace.</desc>
+<rect width="1280" height="360" fill="#000000"/>
+<text x="68" y="192" fill="#ffffff" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="132" letter-spacing="-7">yaqyn</text>
+<text x="76" y="246" fill="#ffffff" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="7.1">DEVELOPMENT</text>
+<path d="M654 94v172" stroke="#333333"/>
+<g fill="#dddddd" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25" letter-spacing="-.3">
+<text x="716" y="144">Business applications.</text>
+<text x="716" y="184">Client websites.</text>
+<text x="716" y="224">Internal tools.</text>
+</g>
+<path d="M76 302h1128" stroke="#262626"/>
+</svg>

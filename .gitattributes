@@ -1,0 +1,2 @@
+# Preserve the upstream font license byte-for-byte.
+scripts/fonts/OFL.txt -whitespace

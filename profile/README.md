@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/yaqyn-cover.webp" width="2171" height="724" alt="Yaqyn Development — sculptural white yaqyn. wordmark on black">
+<a href="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/yaqyn-dust-poster.webp"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/yaqyn-dust-poster.webp">
+  <img src="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/yaqyn-dust-intro.gif" width="1920" height="640" alt="Yaqyn Development — yaqyn. / dev. Contact contact@yaqyn.dev — let's work.">
+</picture></a>
 
 # Yaqyn Development
 

@@ -6,9 +6,27 @@ Use one static masthead, a left-aligned naturally wrapping 132 × 132 gallery, a
 
 ## Identity
 
-Black is the organization's primary brand color, chosen by the owner. The generated cover uses pure black, sculptural white lowercase `yaqyn.` lettering with neutral silver edge highlights, and the supporting word DEVELOPMENT. The period is part of the wordmark. Preserve the monochrome identity; no red accents or colorful illustrations.
+Black is the organization's primary brand color, chosen by the owner. The active
+masthead is an original dust-and-typography bumper: particles clear to pure black,
+`yaqyn.` appears in Montserrat Bold 700 above a smaller centered `dev`, the title
+fades out, the email `contact@yaqyn.dev` fades in above `let's work`, then dust
+returns while the contact card fades. The trajectory and opacity envelopes are
+periodic for a continuous loop. The reference is the broad restraint of short
+black-and-white television bumpers, not a copied logo or sequence.
 
-The masthead is generated brand artwork, not a photograph of a physical sign. Its exact lettering was visually checked. The lossless WebP preserves the generated 2171 × 724 pixels. Original embedded metadata was stripped; only the two workspace owner-credit XMP fields were added. Keep the banner static and use a new asset path for replacements to avoid stale cached artwork.
+Output is 1920 × 640 at a 25 fps motion cadence over 12 seconds. Identical held
+frames are packed into longer frame durations without changing the timing.
+Grayscale dust has varied focus, size, brightness and slow drift. Text positions
+stay fixed; all transitions use smoothstep easing. No camera movement or zoom.
+
+`yaqyn-dust-intro.gif` is rendered by `scripts/build_dust_cover.py`, with a matching
+lossless WebP poster. The README uses the poster for reduced-motion preferences
+and links the cover to it as a static alternative. Montserrat is bundled unchanged
+under its OFL license; provenance is in `scripts/fonts/SOURCES.md`. Rendering
+bakes the font into the assets, so visitors make no font requests.
+
+Prior generated artwork is retained as an unused asset. The active masthead is
+programmatic, with exact text and weight rather than generated letterforms.
 
 The profile heading repeats the name as accessible text. Its table and prose carry the meaning independently of the artwork. Keep client metrics, team-size claims, and service guarantees out of the copy unless verified.
 

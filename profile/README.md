@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/cover-black.svg" width="1280" height="360" alt="Yaqyn Development — independent software development">
+<img src="https://raw.githubusercontent.com/yaqyn-dev/.github/main/profile/assets/yaqyn-cover.webp" width="2171" height="724" alt="Yaqyn Development — sculptural white yaqyn. wordmark on black">
 
 # Yaqyn Development
 

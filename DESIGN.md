@@ -1,16 +1,13 @@
 # Organization profile design
 
-The page introduces Yaqyn Development as an independent workspace for career projects. It complements the personal profile without repeating the learning-project gallery, credentials, or full biography.
+The page introduces Yaqyn Development as an independent workspace for career projects. It complements the personal profile without repeating the learning-project gallery, credentials, or biography.
 
-Use one static SVG masthead, concise copy, and a three-column project table. Keep source repositories private and use the existing public HyperQuote and Modern showcases as evidence. Describe Stockroom as a private evaluation prototype; do not imply live inventory use or implemented integration.
+Use one static masthead, concise copy, and a three-column project table. Application repositories stay private; link to the approved HyperQuote and Modern showcases. Stockroom remains explicitly a private evaluation prototype.
 
-Black is the organization's primary brand color, explicitly chosen by the owner.
-The masthead uses pure black `#000000`, white `#ffffff`, supporting text
-`#dddddd`, and quiet dividers `#333333` / `#262626`. The lowercase wordmark and
-spaced DEVELOPMENT lettering establish hierarchy through type and whitespace.
-No red accents, illustrations, gradients, or animated decoration. The visual
-identity is distinct from the personal profile's charcoal/red palette.
-System fonts, explicit background, accessible title/description, no scripts or
-external resources. The SVG is under 2 KB for fast loading.
+## Identity
 
-The table and text carry the meaning independently of the illustration. No client metrics, team-size claims, service guarantees, or unsupported production claims.
+Black is the organization's primary brand color, chosen by the owner. The generated cover uses pure black, sculptural white lowercase `yaqyn.` lettering with neutral silver edge highlights, and the supporting word DEVELOPMENT. The period is part of the wordmark. Preserve the monochrome identity; no red accents or colorful illustrations.
+
+The masthead is generated brand artwork, not a photograph of a physical sign. Its exact lettering was visually checked. The lossless WebP preserves the generated 2171 × 724 pixels. Original embedded metadata was stripped; only the two workspace owner-credit XMP fields were added. Keep the banner static and use a new asset path for replacements to avoid stale cached artwork.
+
+The profile heading repeats the name as accessible text. Its table and prose carry the meaning independently of the artwork. Keep client metrics, team-size claims, and service guarantees out of the copy unless verified.

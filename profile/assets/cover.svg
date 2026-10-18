@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Yaqyn Development</title>
+<desc id="desc">A charcoal editorial masthead with an off-white yaqyn wordmark, a red divider, and a restrained diagram connecting requests, records, and delivery.</desc>
+<rect width="1280" height="320" rx="12" fill="#161619"/>
+<path d="M52 45h1176" stroke="#36363c"/>
+<text x="52" y="76" fill="#a8a8b0" font-family="Arial, sans-serif" font-size="12" letter-spacing="2.4">INDEPENDENT SOFTWARE DEVELOPMENT</text>
+<text x="48" y="182" fill="#f2f1ed" font-family="Arial, sans-serif" font-weight="700" font-size="94" letter-spacing="-5">yaqyn</text>
+<path d="M340 118 323 184" stroke="#ed424a" stroke-width="5"/>
+<text x="361" y="177" fill="#f2f1ed" font-family="Arial, sans-serif" font-size="38" letter-spacing="-1">development</text>
+<text x="52" y="241" fill="#b6b6be" font-family="Arial, sans-serif" font-size="18">Business applications. Client websites. Internal tools.</text>
+<g fill="none" stroke="#45454d" stroke-width="1.5">
+<path d="M870 116h96v85h192M870 201h96M1062 116h96v85"/>
+<rect x="840" y="100" width="60" height="32" rx="4" fill="#202025"/>
+<rect x="840" y="185" width="60" height="32" rx="4" fill="#202025"/>
+<rect x="1032" y="100" width="60" height="32" rx="4" fill="#202025"/>
+<rect x="1128" y="185" width="60" height="32" rx="4" fill="#202025"/>
+</g>
+<g stroke="#b6b6be" stroke-width="1.5" fill="none"><path d="M853 111h33m-33 9h22M853 197h33m-33 9h22M1046 111h32m-32 9h21M1142 201l7 6 16-17"/></g>
+<circle cx="966" cy="201" r="4" fill="#ed424a"/>
+<path d="M52 277h1176" stroke="#36363c"/>
+</svg>
